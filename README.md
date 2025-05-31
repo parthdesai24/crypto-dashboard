@@ -1,5 +1,5 @@
 # Cryto Dashboard
-## Live on : https://crypto-dashboard-dv.netlify.app/
+## Live on : https://crypto-dashboard-pd.netlify.app/
 
 **Screenshots:**
 ![image](https://user-images.githubusercontent.com/78134745/165534166-9faeef09-7f7c-4121-a1e2-fb6c017f37c8.png)
